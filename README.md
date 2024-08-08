@@ -10,9 +10,9 @@
 </div>
 <div align="center">
 <p align="center" >You have finally discovered my Github profile. <br>
-  
+
   I'm a Smart Contract and a Web2 Developer with over 2 years of experience in each field and  I got driven by a passion for blockchain technology, I actively contribute to the Solidity community through educational content, open-source projects, and participation in blockchain events. My commitment to continuous learning ensures I stay at the forefront of industry advancements. <br>
-  
+
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything here<br>
 just <a href="mailto:emmanuelsk04@gmail.com"><b>email</b></a> me</p>
@@ -129,9 +129,9 @@ just <a href="mailto:emmanuelsk04@gmail.com"><b>email</b></a> me</p>
 </div>
 
 
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmmanuellDev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph">
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmmanuellDev&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="Emmanuel's activity graph">
+</p>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
