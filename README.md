@@ -105,6 +105,15 @@ just <a href="mailto:emmanuelsk04@gmail.com"><b>email</b></a> me</p>
 
 
 
+<p align='center'>
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=EmmanuellDev&theme=darkmode&data=followers,repositories,stars,commits' />
+</p>
+
+<div id="header" align="center">
+<img
+src="https://komarev.com/ghpvc/?username=EmmanuellDev&color=blue&abbreviated=true"
+alt="Emmanuel's Visitor Count"/>
+</div>
 
 
 
