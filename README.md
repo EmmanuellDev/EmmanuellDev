@@ -142,6 +142,12 @@ alt="Emmanuel's Visitor Count"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmmanuellDev&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="Emmanuel's activity graph">
 </p>
 
+<table>
+<tr>
+  <td align="center" class="color: blue" width="1000"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmmanuellDev&theme=highcontrast&hide_border=true"/></td>
+</tr>
+</table>
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
