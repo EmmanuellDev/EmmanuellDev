@@ -26,21 +26,21 @@
     <td align="center"><img src="https://cdn.simpleicons.org/html5" height="40" /><div>HTML5</div></td>
     <td align="center"><img src="https://cdn.simpleicons.org/tailwindcss" height="40" /><div>TailwindCSS</div></td>
     <td align="center"><img src="https://cdn.simpleicons.org/javascript" height="40" /><div>JavaScript</div></td>
-<td align="center"><img src="https://cdn.simpleicons.org/supabase" height="40" /><div>SupaBase DB</div></td>
+<td align="center"><img src="https://cdn.simpleicons.org/supabase" height="20" /><div>SupaBase DB</div></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.simpleicons.org/react" height="40" /><div>React</div></td>
     <td align="center"><img src="https://cdn.simpleicons.org/nextdotjs" height="40" /><div>Next.js</div></td>
     <td align="center"><img src="https://cdn.simpleicons.org/node.js" height="40" /><div>Node.js</div></td>
     <td align="center"><img src="https://cdn.simpleicons.org/figma" height="40" /><div>Figma</div></td>
- <td align="center"><img src="https://cdn.simpleicons.org/typescript" height="40" /><div>Typescript</div></td> 
+ <td align="center"><img src="https://cdn.simpleicons.org/typescript" height="20" /><div>Typescript</div></td> 
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.simpleicons.org/rust" height="40" /><div>Rust</div></td>
     <td align="center"><img src="https://cdn.simpleicons.org/firebase" height="40" /><div>Firebase</div></td>
     <td align="center"><img src="https://cdn.simpleicons.org/mongodb" height="40" /><div>MongoDB</div></td>
     <td align="center"><img src="https://cdn.simpleicons.org/mysql" height="40" /><div>MySQL</div></td>
- <td align="center"><img src="https://cdn.simpleicons.org/git" height="40" /><div>Git</div></td> 
+ <td align="center"><img src="https://cdn.simpleicons.org/git" height="20" /><div>Git</div></td> 
   </tr>
 <tr>
 </table>
@@ -86,8 +86,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EmmanuellDev&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </div>
+<div align="center">
 
   [![GitHub Streak](https://github-readme-streak-stats-jet-one.vercel.app?user=EmmanuellDev&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuellDev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages"/>
